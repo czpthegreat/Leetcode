@@ -3,7 +3,7 @@
 // Author      : zhipeng.czp
 // Version     :
 // Copyright   : czpthegreat@gmail.com
-// Description : Hello World in C++, Ansi-style
+// Description :  for the problem at https://oj.leetcode.com/problems/sqrtx/
 //============================================================================
 
 #include <iostream>
